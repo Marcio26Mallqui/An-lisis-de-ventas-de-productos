@@ -1,2 +1,2 @@
-*.sql linguist-language=SQL
+Normalización de base de datos.sql linguist-language=SQL
 *.ipynb linguist-language=Python
